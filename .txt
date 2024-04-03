@@ -1,0 +1,10 @@
+*****Information of Name,Age,Nationality****
+1.Student Name:
+
+
+2.Age:
+3.Nationality:
+*******EDUCATIONAL DETAILS******
+4.completed Course:
+5.Present Course:
+6.Semisters(if applicable):
